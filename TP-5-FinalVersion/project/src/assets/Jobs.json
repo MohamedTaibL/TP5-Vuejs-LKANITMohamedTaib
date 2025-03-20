@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Software Engineer",
+    "description": "Develop and maintain software applications.",
+    "salary": "20000",
+    "creationDate": "2025-03-19",
+    "details": "This is a full-time position with benefits. The candidate will be responsible for developing and maintaining software applications, collaborating with cross-functional teams, and ensuring the quality of the codebase. Experience with JavaScript, Python, and cloud technologies is preferred."
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Analyze and interpret complex data to help companies make decisions.",
+    "salary": "120000",
+    "creationDate": "2025-03-18",
+    "details": "Remote work available. The candidate will analyze and interpret complex data sets to help companies make informed decisions. Proficiency in machine learning, statistical analysis, and data visualization tools is required. Experience with Python, R, and SQL is preferred."
+  },
+  {
+    "title": "Product Manager",
+    "description": "Oversee the development and delivery of products.",
+    "salary": "110000",
+    "creationDate": "2025-03-18",
+    "details": "Experience in agile methodologies required. The candidate will oversee the development and delivery of products, working closely with engineering, design, and marketing teams. Strong leadership and communication skills are essential. Experience with product lifecycle management tools is preferred."
+  },
+  {
+    "title": "Web Developer",
+    "description": "Responsible for creating and maintaining modern and responsive websites.",
+    "salary": "35000",
+    "creationDate": "2025-03-17",
+    "details": "Knowledge of React and Vue.js preferred. The candidate will create and maintain modern and responsive websites, ensuring optimal performance and user experience. Proficiency in HTML, CSS, JavaScript, and web development frameworks is required. Experience with version control systems is preferred."
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Analyze data to help with strategic decision making.",
+    "salary": "50000",
+    "creationDate": "2025-03-15",
+    "details": "Proficiency in SQL and Python required. The candidate will analyze data to support strategic decision-making processes. Strong analytical skills and attention to detail are essential. Experience with data visualization tools and business intelligence platforms is preferred."
+  },
+  {
+    "title": "IT Project Manager",
+    "description": "Manage IT projects from start to finish, coordinating technical teams.",
+    "salary": "70000",
+    "creationDate": "2025-03-10",
+    "details": "PMP certification preferred. The candidate will manage IT projects from start to finish, coordinating technical teams and ensuring project milestones are met. Strong project management skills and experience with project management software are required. Experience in IT infrastructure projects is preferred."
+  },
+  {
+    "title": "Software Engineer",
+    "description": "Develop robust and high-performance software applications for various clients.",
+    "salary": "60000",
+    "creationDate": "2025-02-28",
+    "details": "The candidate will develop robust and high-performance software applications for various clients, ensuring code quality and performance. Proficiency in multiple programming languages and experience with software development methodologies are required. Experience with cloud platforms is preferred."
+  },
+  {
+    "title": "UX/UI Designer",
+    "description": "Create intuitive and attractive user interfaces to improve customer experience.",
+    "salary": "40000",
+    "creationDate": "2025-03-01",
+    "details": "The candidate will create intuitive and attractive user interfaces to improve customer experience. Strong design skills and proficiency in design tools such as Sketch, Figma, and Adobe Creative Suite are required. Experience with user research and usability testing is preferred."
+  },
+  {
+    "title": "Digital Marketing Manager",
+    "description": "Develop online marketing strategies to increase the company's visibility.",
+    "salary": "55000",
+    "creationDate": "2025-02-25",
+    "details": "The candidate will develop online marketing strategies to increase the company's visibility and drive traffic to the website. Proficiency in SEO, SEM, and social media marketing is required. Experience with marketing automation tools and analytics platforms is preferred."
+  },
+  {
+    "title": "Cybersecurity Consultant",
+    "description": "Advise companies on securing their IT systems and networks.",
+    "salary": "80000",
+    "creationDate": "2025-03-12",
+    "details": "The candidate will advise companies on securing their IT systems and networks, conducting security assessments and implementing security measures. Proficiency in cybersecurity tools and frameworks is required. Experience with incident response and threat analysis is preferred."
+  },
+  {
+    "title": "Network Technician",
+    "description": "Install, configure, and maintain network equipment.",
+    "salary": "30000",
+    "creationDate": "2025-02-20",
+    "details": "The candidate will install, configure, and maintain network equipment, ensuring network performance and reliability. Proficiency in network protocols and troubleshooting tools is required. Experience with network security and wireless technologies is preferred."
+  },
+  {
+    "title": "Administrative Assistant",
+    "description": "Administrative management, telephone reception, and client file follow-up.",
+    "salary": "25000",
+    "creationDate": "2025-03-05",
+    "details": "The candidate will handle administrative management, telephone reception, and client file follow-up. Strong organizational and communication skills are required. Experience with office software and administrative procedures is preferred."
+  },
+  {
+    "title": "B2B Sales Representative",
+    "description": "Prospect and manage a portfolio of professional clients.",
+    "salary": "45000",
+    "creationDate": "2025-03-14",
+    "details": "The candidate will prospect and manage a portfolio of professional clients, developing sales strategies and achieving sales targets. Strong sales and negotiation skills are required. Experience with CRM software and B2B sales is preferred."
+  }
+]
